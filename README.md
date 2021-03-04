@@ -1,6 +1,6 @@
 # SQL_projects
 
-This repository stores all projects relate to SQL
+This repository stores all projects relate to SQL, updates graduatly.
 
 Project name | Description
 -------------|------------
